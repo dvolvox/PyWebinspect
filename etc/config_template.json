@@ -1,0 +1,9 @@
+{
+  "con":{
+    "host":"",
+    "port":"8083"
+  },
+  "debug":true,
+  "breakOnException":false,
+  "initPing":true
+}
